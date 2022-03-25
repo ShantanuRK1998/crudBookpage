@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "bookName": "RD Sharma objective mathematics",
+      "author": "RD Sharma",
+      "price": "1049/-",
+      "description": "This Book is useful for JEE(Main & Advanced) and other engineering entrance examinations. Aspirants who are preparing for these competetive examinations can refer this book for the preparations. The book has 2 volumes which cover the whole mathematics section in a comprehensive and detailed way to undetstand easily."
+    },
+    {
+      "id": 2,
+      "bookName": "Atomic Habits",
+      "author": "James Clear",
+      "price": "256/-",
+      "description": "In this ground-breaking book, Clear reveals how these tiny changes will help you get 1 percent better every day. He uncovers a handful of simple life hacks (the forgotten art of Habit Stacking, the unexpected power of the Two Minute Rule, or the trick to entering the Goldilocks Zone) and delves into cutting-edge psychology and neuroscience to explain why they matter. Along the way, he tells inspiring stories of Olympic gold medalists, leading CEOs and distinguished scientists who have used the science of small habits to stay productive, motivated and happy. These small changes will have a revolutionary effect on your career, your relationships and your life."
+    },
+    {
+      "id": 3,
+      "bookName":"Rich Dad Poor Dad",
+      "author":"Robert T Kiyosaki",
+      "price": "125/-",
+      "description":  "Rich Dad Poor Dad is Robert's story of growing up with two dads — his real father and the father of his best friend, his rich dad — and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you."
+    }
+   
+  ]
